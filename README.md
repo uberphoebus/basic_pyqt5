@@ -1,1 +1,4 @@
-# basic_pyqt5
+# PyQt5 tutorial
+
+## Dependencies
+* pyqt5
